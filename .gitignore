@@ -1,0 +1,6 @@
+hour.csv
+day.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.venv/
